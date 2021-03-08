@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩🏻‍💻 Desenvolvedor Full Stack - Bootcamp Generation Brasil 
-🎓 Cursando Análise de Desenvolvimento de sistemas - Estácio
+- 👩🏻‍💻 Desenvolvedor Full Stack - Bootcamp Generation Brasil 
+- 🎓 Cursando Análise de Desenvolvimento de sistemas - Estácio
 
 
 
