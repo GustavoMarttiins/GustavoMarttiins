@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👩🏻‍💻 Desenvolvedor Full Stack - Bootcamp Generation Brasil 
 🎓 Cursando Análise de Desenvolvimento de sistemas - Estácio
-https://logodownload.org/wp-content/uploads/2014/12/estacio-logo-0.png
+
 
 
 
