@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 Cursando Análise de Desenvolvimento de sistemas - Estácio
 
 
-
+<a href="http://logodownload.org" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo-faculdade-2.jpg" alt="estacio-logo-faculdade-2" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMarttiins&show_icons=true&theme=radical)
 
