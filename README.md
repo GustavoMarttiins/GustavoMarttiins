@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩🏻‍💻 Desenvolvedor (a) Full Stack - Bootcamp Generation Brasil 
+👩🏻‍💻 Desenvolvedor Full Stack - Bootcamp Generation Brasil 
+🎓 Cursando Análise de Desenvolvimento de sistemas - Estácio
+https://logodownload.org/wp-content/uploads/2014/12/estacio-logo-0.png
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMarttiins&show_icons=true&theme=radical)
 
