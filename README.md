@@ -12,7 +12,6 @@
 
 
 - 👩🏻‍💻 Desenvolvedor Full Stack - Bootcamp Generation Brasil 
-- 🎓 Cursando Análise de Desenvolvimento de sistemas - Estácio
 - 📞 Formas de contatos [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gustavo-martins-3a9980136//)](https://www.linkedin.com/in/gustavo-martins-3a9980136/) [![Outlook Badge](https://img.shields.io/badge/-Hotmail-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo_marttiins@hotmail.com)](mailto:gustavo_marttiins@hotmail.com)
 
 
